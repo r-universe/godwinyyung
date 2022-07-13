@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "npsurvSS",
+    "oncran": true
+  }
+]
